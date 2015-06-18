@@ -1,0 +1,6 @@
+node_modules/
+bower_components/
+user_assets/
+build/
+.DS_Store
+dist/
