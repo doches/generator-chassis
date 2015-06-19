@@ -1,7 +1,7 @@
 {
   "name": "generator-chassis",
   "version": "0.1.0",
-  "description": "Yeoman generator for handlebars+gulp+less+coffeescript",
+  "description": "Yeoman generator for handlebars + gulp + less + coffeescript",
   "license": "MIT",
   "main": "app/index.js",
   "repository": "doches/generator-chassis",
@@ -27,6 +27,9 @@
     "scaffolding",
     "chassis"
   ],
+  "peerDependencies": {
+    "yo": ">=1.0.0"
+  },
   "dependencies": {
     "yeoman-generator": "^0.19.0",
     "chalk": "^1.0.0",
